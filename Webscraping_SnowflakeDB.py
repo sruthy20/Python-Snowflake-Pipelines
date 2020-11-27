@@ -17,7 +17,7 @@ class Snowdataload():
        
         self.URL='https://jsonplaceholder.typicode.com/todos'
         
-    def getdata(self):      # method for webscraping
+    def getdata(self):        # method for webscraping
         
         
         try:
