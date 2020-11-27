@@ -1,7 +1,10 @@
 
+<img width="511" alt="pyth-snow" src="https://user-images.githubusercontent.com/72220952/100454410-c1e21d80-30b4-11eb-8d04-4c20a40f23ae.png">
+
 The below section includes my works done as part of exploring the diverse opportunities of using python and Snowflake data warehouse. Snowflake is a cloud-based data warehouse that provides Software-as-a-Service(SaaS) feature. What makes Snowflake different from the traditional on-premises data warehouse is that it relies completely on the cloud infrastructure with better performance and enhanced security features and ease of data analysis. 
 
 Let's explore the activities done as part of this learning experience.
+
 
 # 1. Web Scraping ,information extraction and data load into Snowflake datawarehouse objects
 
